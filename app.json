@@ -29,6 +29,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "A market place for selling the stuff you do not need anymore"
+    "description": "A market place for selling the stuff you do not need anymore",
+    "githubUrl": "https://github.com/Kaydayo/Native_App"
   }
 }
